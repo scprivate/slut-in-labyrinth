@@ -1,91 +1,91 @@
-���y�X���b�g�A���h�_���W�����z
-�@�@���� : �ւ����񓰁@�Ђ炢���݂���
-�@�@����c�[���\�t�g : RPG�c�N�[��VXAce
+■【スラットアンドダンジョン】
+　　製作 : へいせん堂　ひらいずみこう
+　　製作ツールソフト : RPGツクールVXAce
 
-���{��i�̃f�[�^�𖳒f�ŕ����A�]�ځA�z�z�A�̔����鎖���֎~���܂��B
+■本作品のデータを無断で複製、転載、配布、販売する事を禁止します。
 
-���{��i�͐��I�`�ʂ��܂݂܂��̂ŁA18�Ζ����̕��̃v���C�A�w���A�{�����ւ��܂��B
-�@�܂�18�Ζ����̕��ւ̔̔��A���n�����ւ��܂��B
+■本作品は性的描写を含みますので、18歳未満の方のプレイ、購入、閲覧を禁じます。
+　また18歳未満の方への販売、譲渡等も禁じます。
 
-���{��i�̓t�B�N�V�����ł���A�o�ꂷ��l���A�c�́A�n���A�����Ȃǂ�
-�@���݂�����̂Ƃ͈�؊֌W�������܂���B
+■本作品はフィクションであり、登場する人物、団体、地名、事件などは
+　実在するものとは一切関係ございません。
 
-���{��i�́uRPG�c�N�[��VXAce�v���g�p���Đ��삳��Ă��܂��B
-�@�{��i���v���C����ɂ́uRPG�c�N�[��VXAce RTP�v���K�v�ł��B
-�@�uRPG�c�N�[��VXAce RTP�v�̓c�N�[�������T�C�g���疳���Ń_�E�����[�h�o���܂��B
-�@
-�@http://tkool.jp/support/download/rpgvxace/rtp
-�@������̃T�C�g����_�E�����[�h���A�C���X�g�[�����ĉ������B
+■本作品は「RPGツクールVXAce」を使用して製作されています。
+　本作品をプレイするには「RPGツクールVXAce RTP」が必要です。
+　「RPGツクールVXAce RTP」はツクール公式サイトから無料でダウンロード出来ます。
+　
+　http://tkool.jp/support/download/rpgvxace/rtp
+　こちらのサイトからダウンロードし、インストールして下さい。
 
-���N�����@
+■起動方法
 
-�@�t�H���_����Game.exe�����s���ĉ������B
+　フォルダ内のGame.exeを実行して下さい。
 
-���A���C���X�g�[�����@
+■アンインストール方法
 
-�@�t�H���_���S�~���ɍ폜���ĉ������B
+　フォルダをゴミ箱に削除して下さい。
 
-������ȑ�����@
-�@L�{�^���i�L�[�{�[�h�ł�Q�j�c�c�@���b�Z�[�W�X�L�b�v�i�Q�[���J�n���̓I�t��ԂƂȂ��Ă���A�h���Ő؂�ւ����o���܂��j
-�@R�{�^���i�L�[�{�[�h�ł�W�j�c�c�@���b�Z�[�W�E�B���h�E����
-�@Alt+Enter�c�c�S��ʉ��A������x��������ŃE�B���h�E�ɖ߂�܂��B
-�@�Q�[�����s����F1�L�[���������ƂŃv���p�e�B���J�������o���܂��B
-�@�v���p�e�B�ł̓{�^���̊��蓖�Ă̕ύX�����o���܂��B
+■特殊な操作方法
+　Lボタン（キーボードではQ）……　メッセージスキップ（ゲーム開始時はオフ状態となっており、宿屋で切り替えが出来ます）
+　Rボタン（キーボードではW）……　メッセージウィンドウ消去
+　Alt+Enter……全画面化、もう一度同じ操作でウィンドウに戻ります。
+　ゲーム実行中にF1キーを押すことでプロパティを開く事が出来ます。
+　プロパティではボタンの割り当ての変更等が出来ます。
 
-���g�p�f�ޒ��쌠
+■使用素材著作権
 
-�@���X�N���v�g
+　●スクリプト
 
-�@�@initialization�l
+　　initialization様
 
-�@�@�Ђ����L�l
+　　ひきも記様
 
-�@�@�v�`���A�u���O�l
+　　プチレアブログ様
 
-�@�@��z�̈�l
+　　回想領域様
 
-�@���a�f�l
+　●ＢＧＭ
 
-�@�@�����뉀�l
+　　煉獄庭園様
 
-�@�@�������l
+　　魔王魂様
 
-�@�����ʉ�
+　●効果音
 
-�@�@�U�E�}�b�`���C�J�@�Y�l
+　　ザ・マッチメイカァズ様
 
-�@���o�g���[�摜
+　●バトラー画像
 
-�@�@�A���f�b�h�Ƃ��D�������焟�����b�I�I�I�l
+　　アンデッドとか好きだから───ッ！！！様
 
-�@���T�C�R���摜
+　●サイコロ画像
 
-�@�@�҂ۂ�l
+　　ぴぽや様
 
-�@���}�b�v�f��
+　●マップ素材
 
-�@�@�ǂ��Ƃ̂��ւ�l
+　　どっとのおへや様
 
-�@���E�C���h�E�f��
+　●ウインドウ素材
 
-�@�@�P��̉�l
+　　臼井の会様
 
 -------------------------------------------------------------------
-��RPG�c�N�[�������\�L
+■RPGツクール権利表記
 
-�@�{��i�́uRPG�c�N�[��VXAce�v���g�p���Đ��삵�Ă���܂��B
-�@�܂��A�{��i�ɂ́uRPG�c�N�[��XP�v�̑f�ނ��g�p���Ă���܂��B
+　本作品は「RPGツクールVXAce」を使用して製作しております。
+　また、本作品には「RPGツクールXP」の素材を使用しております。
 
-�@��RPG�c�N�[��VXAce
-�@�@(c)2011 KADOKAWA CORPORATION/YOJI OJIMA
+　■RPGツクールVXAce
+　　(c)2011 KADOKAWA CORPORATION/YOJI OJIMA
 
-�@��RPG�c�N�[��XP
-�@�@(c)2004,2009,2012 KADOKAWA CORPORATION/YOJI OJIMA
+　■RPGツクールXP
+　　(c)2004,2009,2012 KADOKAWA CORPORATION/YOJI OJIMA
 -------------------------------------------------------------------
 
-�����쌠�F�@�@����@�ւ�����
-�@�@�@�@�@�@�@�@�@�@�Ђ炢���݂���
+■著作権：　　製作　へいせん堂
+　　　　　　　　　　ひらいずみこう
 
 
-���Ɛӎ����F�@�{��i�𗘗p���邱�Ƃɂ�萶����A��؂̑��Q��s��ɑ΂��āA�ւ����񓰁i�Ђ炢���݂����j��
-�@�@�@�@�@�@�@��؂̐ӔC�𕉂��܂���B�������������B
+■免責事項：　本作品を利用することにより生じる、一切の損害や不具合に対して、へいせん堂（ひらいずみこう）は
+　　　　　　　一切の責任を負いません。ご了承下さい。 

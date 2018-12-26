@@ -1,91 +1,91 @@
-■【スラットアンドダンジョン】
-　　製作 : へいせん堂　ひらいずみこう
-　　製作ツールソフト : RPGツクールVXAce
+■ 【Slat & Dungeon】
+　　Production: Ice-sidedo Hiragimisumi 
+　　Production Tool Software: RPG Maker VXAce 
 
-■本作品のデータを無断で複製、転載、配布、販売する事を禁止します。
+■ We will prohibit copying, reprinting, distributing and selling data of this work without permission. 
 
-■本作品は性的描写を含みますので、18歳未満の方のプレイ、購入、閲覧を禁じます。
-　また18歳未満の方への販売、譲渡等も禁じます。
+■ Since this work includes sexual depiction, play, purchase, browsing of those under the age of 18 is prohibited. 
+　Also, sales, transfer, etc. to people under the age of 18 are forbidden. 
 
-■本作品はフィクションであり、登場する人物、団体、地名、事件などは
-　実在するものとは一切関係ございません。
+■ This work is fiction, the characters, groups, place names, incidents etc. appearing 
+　are not related to actual ones at all. 
 
-■本作品は「RPGツクールVXAce」を使用して製作されています。
-　本作品をプレイするには「RPGツクールVXAce RTP」が必要です。
-　「RPGツクールVXAce RTP」はツクール公式サイトから無料でダウンロード出来ます。
+■ This work is made using "RPG Master VXAce". 
+　In order to play this work "RPG Master VXAce RTP" is necessary. 
+　"RPG Maker VXAce RTP" can be downloaded for free from Mukuru official website. 
+　Please download from http://tkool.jp/support/download/rpgvxace/rtp here and install it. 
+■ Starting method 
+　Execute Game.exe in the folder. 
+■ How 
+　to uninstall Please delete the folder to the trash can. 
+■ Special operation method 
+　L button (Q with keyboard) ...... Message skip (It is off state at the start of the game and can be switched at the inn.) 
+　R button (W with keyboard) ...... Message window erase
 　
-　http://tkool.jp/support/download/rpgvxace/rtp
-　こちらのサイトからダウンロードし、インストールして下さい。
-
-■起動方法
-
-　フォルダ内のGame.exeを実行して下さい。
-
-■アンインストール方法
-
-　フォルダをゴミ箱に削除して下さい。
-
-■特殊な操作方法
-　Lボタン（キーボードではQ）……　メッセージスキップ（ゲーム開始時はオフ状態となっており、宿屋で切り替えが出来ます）
-　Rボタン（キーボードではW）……　メッセージウィンドウ消去
-　Alt+Enter……全画面化、もう一度同じ操作でウィンドウに戻ります。
-　ゲーム実行中にF1キーを押すことでプロパティを開く事が出来ます。
-　プロパティではボタンの割り当ての変更等が出来ます。
-
-■使用素材著作権
-
-　●スクリプト
-
-　　initialization様
-
-　　ひきも記様
-
-　　プチレアブログ様
-
-　　回想領域様
-
-　●ＢＧＭ
-
-　　煉獄庭園様
-
-　　魔王魂様
-
-　●効果音
-
-　　ザ・マッチメイカァズ様
-
-　●バトラー画像
-
-　　アンデッドとか好きだから───ッ！！！様
-
-　●サイコロ画像
-
-　　ぴぽや様
-
-　●マップ素材
-
-　　どっとのおへや様
-
-　●ウインドウ素材
-
-　　臼井の会様
-
--------------------------------------------------------------------
-■RPGツクール権利表記
-
-　本作品は「RPGツクールVXAce」を使用して製作しております。
-　また、本作品には「RPGツクールXP」の素材を使用しております。
-
-　■RPGツクールVXAce
-　　(c)2011 KADOKAWA CORPORATION/YOJI OJIMA
-
-　■RPGツクールXP
-　　(c)2004,2009,2012 KADOKAWA CORPORATION/YOJI OJIMA
--------------------------------------------------------------------
-
-■著作権：　　製作　へいせん堂
-　　　　　　　　　　ひらいずみこう
+　
 
 
-■免責事項：　本作品を利用することにより生じる、一切の損害や不具合に対して、へいせん堂（ひらいずみこう）は
-　　　　　　　一切の責任を負いません。ご了承下さい。 
+
+
+
+　Alt + Enter ...... Full screen, return to the window with the same operation again. 
+　You can open properties by pressing F1 key during game execution. 
+　In the property you can change the assignment of the button etc. 
+
+■ Material Used Copyright 
+
+　● Script 
+
+　　initialization 
+
+　　Dictionary also 
+
+　　Pictilea Blog like 
+
+　　reminiscence area 
+
+　● BGM 
+
+　　Purgatory Garden like 
+
+　　Demon King Soul 
+
+　● Sound Effect 
+
+　　The Match Meika sama 
+
+　● Butler image Because 
+
+　　I like undead ─ ─ ─ __! ! ! Like 
+
+　● dice image 
+
+　　Pipoya like 
+
+　● map material 
+
+　　your room-like dot 
+
+　● window material 
+
+　　Usui Kai like 
+
+--------------------------- ---------------------------------------- 
+■ RPG Tocool Rights Representation 
+
+　This work is "RPG I'm making it using Mako VXAce. 
+　In addition, we use "RPG Maker XP" material for this work. 
+
+　■ RPG Maker VXAce 
+　　(c) 2011 KADOKAWA CORPORATION / YOJI OJIMA
+
+　■ RPG Maker XP 
+　　(c) 2004, 2009, 2012 KADOKAWA CORPORATION / YOJI OJIMA 
+--------------------------------- ---------------------------------- 
+
+■ Copyright: Production Hyperzido 
+　　　　　　　　　　Hiragisumi 
+
+
+■ Disclaimer: Books Daisenzendo (Hiraisumido) is 
+　　　　　　　not responsible for any damage or malfunction caused by using the work . please note that.
